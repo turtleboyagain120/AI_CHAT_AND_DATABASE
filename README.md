@@ -1,5 +1,7 @@
 # 🚀 Infinite AI Chat Trainer - Full DB, 1024 Token Context, Projects List, Free HF API!
-
+----------
+## (FIRST install zip then extract zip to start or and clone the repo I peronally would pick to clone the repo then start on this)
+---------
 Remade for **infinite persistent chats** with **SQLite DB** (chats.db), **1024 token context window**, **/projects shows ALL files**, **free better AI via HF API**.
 
 ## 🎯 New Features
