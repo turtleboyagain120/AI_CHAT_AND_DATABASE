@@ -1,0 +1,23 @@
+DATABASE ELI5 - HOW YOUR AI DATA WORKS (no tech)
+
+Your AI "brain" = giant book of 1,000,000s example questions/answers from real AIs.
+
+**Where from:**
+1. **hh-rlhf** = Anthropic/ChatGPT convos. 160k entries. "Helpful & safe" answers.
+2. Internet training = GPTs ate reddit/books/websites first (not our code).
+
+**Our code does:**
+- Reads book.
+- Copies patterns (like parrot).
+- Now answers YOUR questions smartly.
+
+**Files as database:**
+- train.py = teacher script.
+- my_finetuned_model = saved brain.
+- requirements.txt = ingredient list.
+
+**All data free/public - your PC learns it! No cloud pay.
+
+To add YOUR data: Make prompts.txt with lines "Question: foo\\nAnswer: bar"
+Change train.py: load_dataset("json", data_files="prompts.txt")
+

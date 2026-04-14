@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+trl
+wandb  # optional logging
+requests
+python-dotenv
+
