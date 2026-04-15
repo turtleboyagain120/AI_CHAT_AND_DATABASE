@@ -1,5 +1,3 @@
-o# Dual License: MIT OR AI/ML Model License v2.0
-
 This repository is licensed under the terms of **either** of the following licenses. You may choose the one that best suits your use.
 
 ## License Option 1: MIT License
